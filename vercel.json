@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://journeythroughhardstyle.weticket.io/tickets",
+      "destination": "https://jth.ticket.io",
       "permanent": true
     }
   ]
